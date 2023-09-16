@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayra Emiroglu</h1>
-<h3 align="center">A passionate Full-Stack engineer from Turkiye</h3>
+<h3 align="center">A passionate Full-Stack Engineer from Turkiye</h3>
 
 - 🌱 I’m currently learning **Python, ML, MLOPS**
 
